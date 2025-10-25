@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ILHAM/Documents/Unreal Projects/My3rdPerson_IlhamNR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"C:/Users/ILHAM/Documents/Unreal Projects/My3rdPerson_IlhamNR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
+				"C:/Users/ILHAM/Documents/Unreal Projects/My3rdPerson_IlhamNR/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/ILHAM/Documents/Unreal Projects/My3rdPerson_IlhamNR/Content/Blueprints/BP_Score.uasset",
+				"C:/Users/ILHAM/Documents/Unreal Projects/My3rdPerson_IlhamNR/Content/Blueprints/Score_level.umap",
+				"C:/Users/ILHAM/Documents/Unreal Projects/My3rdPerson_IlhamNR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0P/6EA925F5IJGK9AG5PB3YM5.uasset"
+			]
+		}
+	]
+}
